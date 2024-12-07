@@ -12,7 +12,7 @@ My name is **Natalia**, I'm a Junior Data Analyst / BI Analyst with skills in:
 
 ## Tableau
 ### 2015 Flight Delays and Cancellations
-A project that tooks into domestic US flights in 2015 to find reasons for flight delays and identify 'outsiders' among airports and airlines.
+A project that looks into domestic US flights in 2015 to find reasons for flight delays and identify 'outsiders' among airports and airlines.
 
 [View Dashboard](https://public.tableau.com/app/profile/natalia.byshova5701/viz/2015FlightDelaysandCancellationsBureauofTransportationStatistics/Dashboard)
 
